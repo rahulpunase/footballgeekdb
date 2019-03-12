@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"football_geek.fg_user_datas"},{"v":2,"unique":true,"key":{"username":1},"name":"username_1","ns":"football_geek.fg_user_datas","background":true},{"v":2,"unique":true,"key":{"email":1},"name":"email_1","ns":"football_geek.fg_user_datas","background":true}],"uuid":"d473949b5bce4cd2877216611cf57bdd"}
